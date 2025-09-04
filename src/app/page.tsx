@@ -29,7 +29,7 @@ export default function Home() {
         />
         <meta
           property="og:image"
-          content="/image/kids-gaming-intelektuell-funktionsnedsättning.png"
+          content="/Images/kids-gaming-intelektuell-funktionsnedsättning.png"
         />
         <meta property="og:url" content="https://din-domän.se" />
         <meta property="og:type" content="website" />
@@ -46,7 +46,7 @@ export default function Home() {
         />
         <meta
           name="twitter:image"
-          content="/image/kids-gaming-intelektuell-funktionsnedsättning.png"
+          content="/Images/kids-gaming-intelektuell-funktionsnedsättning.png"
         />
       </Head>
 
@@ -109,7 +109,7 @@ export default function Home() {
                 </div>
                 <div className="relative h-52 md:w-80 w-full rounded-lg overflow-hidden">
                   <Image
-                    src="/image/spelkonsoller.png"
+                    src="/Images/spelkonsoller.png"
                     alt="BILD"
                     fill
                     className="object-cover"
@@ -126,7 +126,7 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div className="relative h-64 md:h-80 w-full animate-pulse rounded-lg overflow-hidden">
                 <Image
-                  src="/image/discord.jpg"
+                  src="/Images/discord.jpg"
                   alt="En Discord-ikon"
                   fill
                   className="object-cover"
@@ -196,7 +196,7 @@ export default function Home() {
                 </div>
                 <div className="relative h-64 md:h-80 w-full rounded-lg overflow-hidden">
                   <Image
-                    src="/image/kids-gamer-if-med-foralder.png"
+                    src="/Images/kids-gamer-if-med-foralder.png"
                     alt="Föräldrar som engagerar sig i spel"
                     fill
                     className="object-cover"
