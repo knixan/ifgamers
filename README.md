@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# IF Gamers – Digital mötesplats för barn & ungdomar med IF
 
-## Getting Started
+En modern och tillgänglig webbplats byggd med **Next.js** och **Tailwind CSS**.  
+Syftet är att skapa en trygg digital mötesplats för barn och ungdomar med intellektuell funktionsnedsättning (IF), där de kan spela spel, prata, titta på film och hänga tillsammans via Discord.
 
-First, run the development server:
+---
 
-```bash
+## ✨ Om projektet
+
+Detta är ett ideellt initiativ för att skapa gemenskap och inkludering för barn och ungdomar med IF.
+Byggt med ❤️ av Josefine Eriksson Kod & Design.
+
+---
+
+## 🚀 Funktioner
+
+- ⭐ **Responsiv design** – fungerar på mobil, surfplatta och dator
+- 🎮 **Spel & gemenskap** – information om crossplay-spel (Xbox, PlayStation, Nintendo, PC, mobil)
+- 💬 **Discord-integration** – enkel väg att gå med i IF Gamers Discord-server
+- 👨‍👩‍👧‍👦 **Sektion för föräldrar** – trygghet och information till vuxna
+- 🔒 **Trygg gemenskap** – fokus på säkerhet, inkludering och stöd
+
+---
+
+## 🛠️ Teknikstack
+
+- [Next.js](https://nextjs.org/) – React-baserat ramverk för frontend
+- [Tailwind CSS](https://tailwindcss.com/) – för styling
+- [React Icons](https://react-icons.github.io/react-icons/) – ikoner
+- [Next/Image](https://nextjs.org/docs/api-reference/next/image) – optimerade bilder
+- [Discord](https://discord.com/) – gemenskapsplattform
+
+---
+
+## 📂 Projektstruktur
+
+/pages
+└── index.tsx # Startsidan med alla sektioner
+/public/images # Bilder som används på sajten
+/styles # Tailwind och globala CSS-inställningar
+
+yaml
+Kopiera kod
+
+---
+
+## ▶️ Kom igång
+
+1. **Klona projektet**
+   ```bash
+   git clone https://github.com/ditt-användarnamn/if-gamers.git
+   cd if-gamers
+   Installera beroenden
+   ```
+
+bash
+Kopiera kod
+npm install
+
+# eller
+
+yarn install
+Starta utvecklingsservern
+
+bash
+Kopiera kod
 npm run dev
-# or
+
+# eller
+
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Öppna http://localhost:3000 i din webbläsare 🎉
