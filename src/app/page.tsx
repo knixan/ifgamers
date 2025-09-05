@@ -89,18 +89,23 @@ export default function Home() {
                     <br /> • Spela spel tillsammans
                     <br /> • Titta på film eller YouTube
                     <br />
+                    <br />
                     Du kan vara med oavsett vilken spelmaskin du har: Xbox,
                     PlayStation, dator, Nintendo Switch, mobil eller Steam Deck.
                     Det finns massor av spel som ni kan spela ihop! Viktigt att
                     veta: Du behöver oftast äga spelen själv. Men det finns
                     också gratis spel att testa!
-                    <br />
+                    <h2 className="text-3xl font-bold text-sky-600 mt-4">
+                      Spel
+                    </h2>
                     Alla spel går inte att spela mellan olika maskiner. Men det
                     finns många spel som funkar bra att spela ihop, till exempel
                     Minecraft Bedrock, Roblox, Fortnite, Apex Legends och Among
                     Us.
+                    <br />
                     <br /> Om du spelar på en surfplatta eller mobil kan det
                     vara lite färre spel att välja på.
+                    <br />
                     <br />
                     Du är också välkommen att hänga med oss även om du inte
                     spelar spel! Om du bara vill prata och ha kul med andra barn
