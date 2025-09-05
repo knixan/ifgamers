@@ -54,7 +54,7 @@ export default function Home() {
         {/* Hero-sektion */}
         <section className="relative w-full h-[500px] md:h-[900px] flex items-center justify-center">
           <Image
-            src="/image/kids-gaming-intelektuell-funktionsnedsättning.png"
+            src="/images/kids-gaming-intelektuell-funktionsnedsättning.png"
             alt="IF Gamers"
             fill
             className="object-cover opacity-50"
